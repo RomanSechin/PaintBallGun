@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaintBallGun", "PaintBallGun.csproj", "{99CFDF34-97EF-41A9-B498-C186A1E47F18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99CFDF34-97EF-41A9-B498-C186A1E47F18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99CFDF34-97EF-41A9-B498-C186A1E47F18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99CFDF34-97EF-41A9-B498-C186A1E47F18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99CFDF34-97EF-41A9-B498-C186A1E47F18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F56F71F7-1039-4167-9326-2E1DE9C2E171}
+	EndGlobalSection
+EndGlobal
